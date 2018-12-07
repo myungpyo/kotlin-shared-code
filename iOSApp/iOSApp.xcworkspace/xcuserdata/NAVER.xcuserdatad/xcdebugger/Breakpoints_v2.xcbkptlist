@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSApp/Data/MemoRepositoryImpl.swift"
+            timestampString = "565852876.185745"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getAllMemos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSApp/New Group/MemoEntityMapper.swift"
+            timestampString = "565708960.7441109"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "mapAll(objs:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSApp.MemoEntityMapper.mapAll(objs: Swift.Array&lt;iOSApp.MemoModel&gt;) -&gt; Swift.Array&lt;__C.SharedCodeMemoEntity&gt;"
+                  moduleName = "iOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NAVER/Workspace/SharedKotlinSample/iOSApp/iOSApp/New%20Group/MemoEntityMapper.swift"
+                  timestampString = "565708960.768407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (iOSApp.MemoModel) -&gt; __C.SharedCodeMemoEntity in iOSApp.MemoEntityMapper.mapAll(objs: Swift.Array&lt;iOSApp.MemoModel&gt;) -&gt; Swift.Array&lt;__C.SharedCodeMemoEntity&gt;"
+                  moduleName = "iOSApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/NAVER/Workspace/SharedKotlinSample/iOSApp/iOSApp/New%20Group/MemoEntityMapper.swift"
+                  timestampString = "565708960.771315"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSApp/New Group/MemoEntityMapper.swift"
+            timestampString = "565709012.260726"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "map(obj:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
