@@ -1,0 +1,2 @@
+include ':AndroidApp'
+include ':SharedCode'
